@@ -66,3 +66,7 @@
 <br/>
 <hr/>
 <img align="center" alt="Duck" width="100%" src="https://media.licdn.com/dms/image/D4D16AQE_U420FuzHLA/profile-displaybackgroundimage-shrink_350_1400/0/1674588559605?e=1697068800&v=beta&t=_ywBiRe0DaFtlmpEXDRD54qfTH6J1avgqzB6irNsKcc"/>
+
+<img align="center" alt="Duck" width="100%" src="https://drive.google.com/file/d/1ek9h1-6wpWgeU8UsxKR-Roe8Uzqh0JqU/view?usp=sharing"/>
+
+
