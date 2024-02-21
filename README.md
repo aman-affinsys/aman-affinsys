@@ -31,12 +31,6 @@
   
 - ❓ Ask me about DevOps.
 
-<br/>
-<hr/>
-
-### Skill Set  :
-
-<br/>
 
 <!--  ### - Web Development  
 
@@ -55,18 +49,10 @@
 
 -->
 
-<hr/>
 
-### - Machine Learning  
-<div align="left">  
-<a href="https://opencv.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" align="justify" width="45" height="45" /></a>  
-<a href="https://www.python.org/" target="_blank"> <img align="justify" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="45" height="45" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow"  align="justify" width="45" height="45" /></a>  
-</div>
-<hr/>
 
 ### - DevOps  
-<div align="left">  
+<div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://logodix.com/logo/34937.png" alt="AWS" align="justify" width="45" height="45" /></a>   
 <a href="https://kubernetes.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes"  align="justify" width="45" height="45"</a>  
 <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" align="justify" width="45" height="45" /></a>  
