@@ -16,23 +16,20 @@
 <a href="https://www.kaggle.com/amanpandey07" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/aman.on.ig" target="_blank">
+<!-- <a href="https://instagram.com/aman.on.ig" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>   -->
 </div>  
 
 <h2>Glad to see you here!</h2>  
 
 ### - Rapidfire  
 
-- 🔭 I’m currently working on linux administration and Docker.
+- 🔭 I’m currently working on linux administration and Docker-deployments.
   
-
-- 🌱 I’m currently learning Kubernetes and 
+- 🌱 I’m currently learning Kubernetes 
   
-
-- ❓ Ask me about DevOps .
-
+- ❓ Ask me about DevOps.
 
 <br/>
 <hr/>
@@ -41,10 +38,11 @@
 
 <br/>
 
-### - Web Development  
+<!--  ### - Web Development  
 
 <div align = "left">  
 <a href="https://reactjs.org/" target="_blank"><img align="justify" width="45px" height="45px" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" /></a>  
+  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img align="justify" width="45px" height="45px" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="justify" width="60px" height="50px" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img align="justify" width="45px" height="45px" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -53,7 +51,9 @@
 <a href="https://mui.com/" target="_blank"><img align="justify" width="45px" height="45px" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img align="justify" width="45px" height="45px" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img align="justify" width="45px" height="45px" class="image-with-space"style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
+</div>  
+
+-->
 
 <hr/>
 
