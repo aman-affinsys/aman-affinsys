@@ -51,7 +51,7 @@
 
 
 
-### - DevOps  
+### - DevOps Tools:
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://logodix.com/logo/34937.png" alt="AWS" align="justify" width="45" height="45" /></a>   
 <a href="https://kubernetes.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes"  align="justify" width="45" height="45"</a>  
