@@ -3,7 +3,7 @@
 <img align="right" alt="Duck" width="40%" src="https://media.giphy.com/media/kmUvauX8TMWg0OsqKW/giphy-downsized-large.gif"/>
 
 <h1 align="left">Hey there 👋🏻</h1>  
-<div align="left">
+<span align="left">
 <a href="https://github.com/amanpandey-03" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -19,7 +19,7 @@
 <!-- <a href="https://instagram.com/aman.on.ig" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>   -->
-</div>  
+</span>  
 
 <h2>Glad to see you here!</h2>  
 
