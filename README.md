@@ -7,49 +7,17 @@
 <a href="https://github.com/amanpandey-03" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/amanOnTwt" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/p307aman" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-left: 5px;" />
-</a>
-<a href="https://www.kaggle.com/amanpandey07" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<!-- <a href="https://instagram.com/aman.on.ig" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>   -->
 </span>  
 
 <h2>Glad to see you here!</h2>  
 
 ### - Rapidfire  
 
-- 🔭 I’m currently working on linux administration and Docker-deployments.
+- 🔭 Currectly working on automation, microservice deployments, & infra management.
   
-- 🌱 I’m currently learning Kubernetes 
+- 🌱 Currently Learning Cloud-technologies, System design and Securirty standards implementation.
   
 - ❓ Ask me about DevOps.
-
-
-<!--  ### - Web Development  
-
-<div align = "left">  
-<a href="https://reactjs.org/" target="_blank"><img align="justify" width="45px" height="45px" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" /></a>  
-  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img align="justify" width="45px" height="45px" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="justify" width="60px" height="50px" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img align="justify" width="45px" height="45px" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img align="justify" width="60px" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img align="justify" width="45px" height="45px" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" /></a>  
-<a href="https://mui.com/" target="_blank"><img align="justify" width="45px" height="45px" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img align="justify" width="45px" height="45px" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img align="justify" width="45px" height="45px" class="image-with-space"style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>  
-
--->
-
-
 
 ### - DevOps Tools:
 <div align="center">  
@@ -65,7 +33,6 @@
 </div>
 <br/>
 <hr/>
-<img align="center" alt="Duck" width="100%" src="https://media.licdn.com/dms/image/D4D16AQE_U420FuzHLA/profile-displaybackgroundimage-shrink_350_1400/0/1674588559605?e=1697068800&v=beta&t=_ywBiRe0DaFtlmpEXDRD54qfTH6J1avgqzB6irNsKcc"/>
 
 <img align="center" alt="Duck" width="100%" src="https://drive.google.com/file/d/1ek9h1-6wpWgeU8UsxKR-Roe8Uzqh0JqU/view?usp=sharing"/>
 
