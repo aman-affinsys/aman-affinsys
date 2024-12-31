@@ -70,3 +70,6 @@
 <img align="center" alt="Duck" width="100%" src="https://drive.google.com/file/d/1ek9h1-6wpWgeU8UsxKR-Roe8Uzqh0JqU/view?usp=sharing"/>
 
 
+
+
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman-affinsys&show_icons=true&hide_border=true&theme=radical)
